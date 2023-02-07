@@ -1,2 +1,4 @@
 # Analysis-of-Algorithms
-Theoretical Time Complexity notations were compared with Experiments to observe differences in implementation
+Different algorithms were analyzed and their real-time Time Complexity was compared with the Theoretical Time Complexity.
+
+The results have been plotted below.
